@@ -167,3 +167,19 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 * Project Name: SMSRenewal
 
 ***
+
+# FiveFeed
+### A daily curated list of trending resources to keep on your radar
+* Teammates:
+    - Justin Kaseman (@Jk)
+    - Frank Faustino (@frankfaustino)
+    - Niki Esfandiari (@NEsfendiari37)
+    - Sumayyah Asgar (@Sumi)
+    - Hunter Casbeer (@spacexengineer)
+    - Kohei Arai (@kohei2301)
+* Seeking Teammates: No
+* [Project URL](https://github.com/FCC-Jamstack-Hackathon/five)
+* Project Name: FiveFeed (TBD)
+
+***
+
